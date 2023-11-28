@@ -1,7 +1,10 @@
 # Byte-compiled / optimized / DLL files
+# .gitignore
 __pycache__/
-*.py[cod]
-*$py.class
+venv/
+*.pyc
+*.pyo
+*.pyd
 
 # C extensions
 *.so
