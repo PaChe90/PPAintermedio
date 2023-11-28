@@ -1,9 +1,10 @@
-streamlit
-pandas
-plotly
-geopandas
-streamlit_folium
-folium
-matplotlib
-requests
+streamlit==0.97.0
+pandas==1.3.3
+plotly==5.3.1
+geopandas==0.10.0
+streamlit_folium==0.8.0
+folium==0.12.1
+matplotlib==3.4.3
+requests==2.26.0
+
 
